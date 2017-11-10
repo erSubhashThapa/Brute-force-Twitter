@@ -35,7 +35,8 @@ try:
         \t  | | \ \ /\ / / | __| __/ _ \ '__|
         \t  | |  \ V  V /| | |_| ||  __/ |   
         \t  |_|   \_/\_/ |_|\__|\__\___|_|   
-        \t                                  
+        \t\t\tYouTube : Black rOOt
+        \t\t\tinstagram : 8mkj
         ""","blue"))
         useroremail = raw_input("\nEnter the Username or Email >>: ")
         password = raw_input("Enter the Password list >>: ")
