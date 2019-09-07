@@ -4,7 +4,6 @@ try:
         import time
 except ImportError:
         print("install selenium v2.53.6 , termcolor \n\tpip install selenium==2.53.6\n\tpip install termcolor")
-        break
 try:
         print(colored("\n\t\tplease wait\n\n","red"))
         time.sleep(1)
